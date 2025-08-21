@@ -18,7 +18,7 @@
  
   👯 I’m looking to collaborate on ** full stack developer **
 
-  🤔 I’m looking for help with ** HTML CSS Javascript, reactjs, nodejs, express and Taiwindcss, Bootstrap
+  🤔 I’m looking for ** HTML CSS Javascript, reactjs, nodejs, express and Taiwindcss, Bootstrap
   
 💬 Ask me about **Node.js, React, javascript... or anything [here](https://github.com/gemechu-jima/gemechu-jima/issues)**
 
