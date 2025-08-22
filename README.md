@@ -3,7 +3,7 @@
 
 - ❤️ I'm currently working on as system software developer 
 - 🌴 I'm currently learning new technology and AI model
-- 🧑‍🤝‍🧑I'm looking to collavorate on gitHub and gitlab
+- 🧑‍🤝‍🧑I'm looking to collaborate on gitHub and gitlab
 - 💁 I'm looking for help with web technology
 - 🗨️ Ask me about question if you have
 - 🖥️ How to reach me 0930851744/gemechujimacs@gmail.com/(https://gemechu.netlify.app/)
